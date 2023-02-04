@@ -256,13 +256,17 @@ color: #ECEBEB;
 }
 
 .intro-header {
-	height: 100%; /* Full PAge */
-	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-	padding-bottom: 50px;
+	height: 100%; /* Full Page */
+	/* padding-top: 50px;  */
+	/* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+	/* padding-bottom: 50px; */
 	color: #f8f8f8;
 	/* background: url(../img/autophagy3.png) no-repeat center center; */
 /*	background: url(../img/Tokyo-GettyImages-1131743616-1000x3000.jpg) no-repeat center center;*/
-  background: url(../img/web_theme_gif.gif) no-repeat center center;
+  	background: url(../img/web_theme_gif.gif) no-repeat center center;
+	/* background: url(../img/web_theme_gif.gif); */
+	/* background-position: center top; */
+	/* background-attachment: fixed; */
 	background-size: cover;
 	text-align: center;
 }
