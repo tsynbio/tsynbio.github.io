@@ -257,7 +257,7 @@ color: #ECEBEB;
 
 .intro-header {
 	height: 100%; /* Full Page */
-	width:100%;
+/*	width:100%;*/
 /*	 padding-bottom: 10%;  */
 	/* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 	/* padding-bottom: 50px; */
@@ -268,7 +268,7 @@ color: #ECEBEB;
 	/* background: url(../img/web_theme_gif.gif); */
 	 background-position: center top; 
 /*	 background-attachment: fixed; */
-	background-size: 100%;
+	background-size: cover;
 	text-align: center;
 }
 
