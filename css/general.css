@@ -1103,7 +1103,7 @@ color: #ECEBEB;
 /* @media only screen and (min-width: 480px) and (max-width: 767px) { */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	.intro-header {
-		height: 100%;
+		/* height: 300%; */
 		/* width: auto; */
 		padding-top: 50px;
 		padding-bottom: 50px;
