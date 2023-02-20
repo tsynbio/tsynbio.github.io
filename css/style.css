@@ -213,18 +213,20 @@ body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.72222;
-  color: #34495e;
+  /* color: #34495e;
+   */
+  color: #f7f6f6ad;
   background-color: #ffffff;
 }
 a {
-  color: #307cc8;
+  color: #b0cae4;
   text-decoration: none;
   -webkit-transition: 0.25s;
   transition: 0.25s;
 }
 a:hover,
 a:focus {
-  color: #34495e;
+  color: #d5def1;
   text-decoration: none;
 }
 a:focus {
@@ -4452,7 +4454,7 @@ body.vjs-full-window {
   }
 }
 footer {
-  background-color: #edeff1;
+  background-color: #061627;
   color: #bac1c8;
   font-size: 15px;
   padding: 0;
