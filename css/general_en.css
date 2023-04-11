@@ -260,8 +260,8 @@ color: #ECEBEB;
 	color: #f8f8f8;
 	/* background: url(../img/autophagy3.png) no-repeat center center; */
 /*	background: url(../img/Tokyo-GettyImages-1131743616-1000x3000.jpg) no-repeat center center;*/
-  	/* background: url(../img/web_theme_gif.gif) no-repeat center center; */
-	background-image: url(../gif/web_theme_gif.gif);
+  	/* background: url(../img/web_theme_gif_en.gif) no-repeat center center; */
+	background-image: url(../gif/web_theme_gif_en.gif);
 	background-position: center center; 
 	background-size: cover;
 	text-align: center;
@@ -1080,7 +1080,7 @@ color: #ECEBEB;
 			/* width: auto; */
 			padding-top: 50px;
 			padding-bottom: 50px;
-			background-image: url(../gif/web_theme_gif.gif);
+			background-image: url(../gif/web_theme_gif_en.gif);
 			background-position: center center; 
 			background-size: cover;
 		}
@@ -1107,7 +1107,7 @@ color: #ECEBEB;
 		/* width: auto; */
 		padding-top: 50px;
 		padding-bottom: 50px;
-		background-image: url(../gif/web_theme_gif.gif);
+		background-image: url(../gif/web_theme_gif_en.gif);
 		background-position: center center; 
 		background-size: cover;
 	}
@@ -1120,7 +1120,7 @@ color: #ECEBEB;
 		/* width: auto; */
 		padding-top: 50px;
 		padding-bottom: 50px;
-		background-image: url(../gif/web_theme_gif.gif);
+		background-image: url(../gif/web_theme_gif_en.gif);
 		background-position: center center; 
 		background-size: cover;
 	}
